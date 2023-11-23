@@ -1,1 +1,1 @@
-Un Blo en PHP POO 
+Un Blog en PHP POO 
